@@ -24,8 +24,7 @@ This guide covers the following steps that you need to go through to set up your
 
  * Minimum system requirements for the laptop to be used during the course - 64 bit system, minimum 4 GB RAM (8GB preferred), i3 and above processor.
 
- * You can use either Windows/ Mac OS/ Ubuntu 16.04 while working through the program. However, we **strongly recommend** you to use Ubuntu / Mac OS.
-
+ * You can use either Windows/ Mac OS/ Ubuntu 16.04 while working through the program.
 #### Mac OS
 
  We'll be using `Homebrew` to install and manage packages.
@@ -42,9 +41,6 @@ This guide covers the following steps that you need to go through to set up your
 #### Windows
 
  You can use any given Windows version: Win7, Win8/8.1 or Win10.
-
-  * If you are on Windows and want to run Ubuntu you can create a dual boot system. [Here](https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/) is a beginners guide for the same.
-  * Using VMWare to run Ubuntu 16.04 from inside of Windows is **not recommended**
 
 ## Install Python using Anaconda
 Anaconda distribution is the easiest way to install Python along with most popular machine learning libraries that you will be needing for the program. You can download Anaconda 3.6 or higher for you operating system from [here](https://www.anaconda.com/download/). Follow [this](https://conda.io/docs/user-guide/install/index.html)
